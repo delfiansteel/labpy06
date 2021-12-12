@@ -48,7 +48,7 @@ print(c(5, -1, 8, 19))
 def d(s):
     return "".join(set(s))
     d = lambda s: "".join(set(s))
-print(d("Jenab"))
+print(d("Delfian"))
 ```
 
 ### Output
